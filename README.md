@@ -12,4 +12,5 @@ This dataset was compiled by Rebrickable, which is a website to help identify wh
 
 ### Aim:
 The purpose of this project is to perform EDA and answer business driven questions.
+1. Which theme sold the most in recent years, is there any external factor for this social or even political?
 
