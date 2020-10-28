@@ -9,3 +9,7 @@ This dataset contains the LEGO Parts/Sets/Colors and Inventories of every offici
 Acknowledgements:
 
 This dataset was compiled by Rebrickable, which is a website to help identify what LEGO sets can be built given bricks and pieces from other LEGO sets. You can use these files for any purpose.
+
+### Aim:
+The purpose of this project is to perform EDA and answer business driven questions.
+
